@@ -19,7 +19,7 @@
     "start": "node main.js"
   },
   "dependencies": {
+    "express": "^5.1.0",
     "nit": "^0.0.5"
-  },
-  "devDependencies": {}
+  }
 }
