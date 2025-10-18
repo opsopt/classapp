@@ -1,0 +1,24 @@
+{
+  "name": "classapp",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/opsopt/classapp#readme",
+  "bugs": {
+    "url": "https://github.com/opsopt/classapp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opsopt/classapp.git"
+  },
+  "license": "MIT",
+  "author": "Filutkowski",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nit": "^0.0.5"
+  },
+  "devDependencies": {}
+}
